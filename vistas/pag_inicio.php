@@ -2,7 +2,7 @@
 session_start();
 
 if($_SESSION["s_usuario"] === null){
-    header("Location: ../vistas/pag_inicio.php");
+    header("Location: ../index.php");
 }
 
 ?>
