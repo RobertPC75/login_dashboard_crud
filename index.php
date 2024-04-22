@@ -17,7 +17,7 @@
     
     <body>
      
-        <!-- <div class="container-login">
+        <div class="container-login">
             <div class="wrap-login">
                 <form class="login-form validate-form" id="formLogin" action="" method="post">
                     <span class="login-form-title">LOGIN</span>
@@ -40,7 +40,7 @@
                     </div>
                 </form>
             </div>   
-        </div> --> 
+        </div> 
         
         
      <script src="jquery/jquery-3.3.1.min.js"></script>    
