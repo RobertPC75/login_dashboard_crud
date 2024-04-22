@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-if($_SESSION["s_usuario"] === null){
-    header("Location: ../index.php");
-}
+#if($_SESSION["s_usuario"] === null){
+#    header("Location: ../index.php");
+#}
 
 ?>
 <!doctype html>
