@@ -16,7 +16,7 @@
     </head>
     
     <body>
-     
+        <script src="pag_inicio.js"></script> 
         <!-- <div class="container-login">
             <div class="wrap-login">
                 <form class="login-form validate-form" id="formLogin" action="" method="post">
@@ -40,7 +40,7 @@
                     </div>
                 </form>
             </div>   
-        </div> -->
+        </div> 
         
         
      <script src="jquery/jquery-3.3.1.min.js"></script>    
@@ -48,6 +48,6 @@
      <script src="popper/popper.min.js"></script>    
         
      <script src="plugins/sweetalert2/sweetalert2.all.min.js"></script>    
-     <script src="codigo.js"></script>    
+     <script src="codigo.js"></script> -->   
     </body>
 </html>
