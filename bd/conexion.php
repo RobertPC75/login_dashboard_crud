@@ -2,7 +2,7 @@
  class Conexion{
     public static function Conectar(){
         define('servidor','dashboard-crud-server.mysql.database.azure.com');
-        define('nombre_bd','test');
+        define('nombre_bd','crud_2019');
         define('usuario','pppnkxomil');
         define('password', getenv('MYSQL_PASSWORD'));        
         $opciones = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8');   
